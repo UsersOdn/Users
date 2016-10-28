@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<messageList>
+    <!-- Part I -->
+
+
+    <confirm_message>
+        <fa>آیا می خواهید این عملیات را انجام دهید؟</fa>
+        <en>Do you realy want to execute this action?</en>
+        <type>wrn</type>
+    </confirm_message>
+
+    <deleteUser>
+        <fa>حذف کاربر</fa>
+        <en>Delete User</en>
+        <type>wrn</type>
+    </deleteUser>
+
+    <deleteUserRole>
+        <fa>حذف دسترسی</fa>
+        <en>Delete Role</en>
+        <type>wrn</type>
+    </deleteUserRole>
+
+    <deleteUserGroup>
+        <fa>حذف گروه دسترسی</fa>
+        <en>Delete Role Group</en>
+        <type>wrn</type>
+    </deleteUserGroup>
+
+    <deleteRoleAction>
+        <fa>حذف دسترسی عملیات</fa>
+        <en>Delete Role Action</en>
+        <type>wrn</type>
+    </deleteRoleAction>
+
+    <please_fill_firstname>
+        <fa>لطفا فیلد نام را پر کنید.</fa>
+        <en>Please fill First Name.</en>
+        <type>wrn</type>
+    </please_fill_firstname>
+
+    <please_fill_lastname>
+        <fa>لطفا فیلد نام  خانوادگی را پر کنید.</fa>
+        <en>Please fill Last Name.</en>
+        <type>wrn</type>
+    </please_fill_lastname>
+
+    <please_fill_password>
+        <fa>لطفا فیلد گذرواژه را پر کنید.</fa>
+        <en>Please fill password.</en>
+        <type>wrn</type>
+    </please_fill_password>
+
+    <please_fill_password_confirm>
+        <fa>لطفا فیلد تایید گذرواژه را پر کنید.</fa>
+        <en>Please fill password confirm.</en>
+        <type>wrn</type>
+    </please_fill_password_confirm>
+
+    <please_fill_mobile_number>
+        <fa>لطفا فیلد تایید گذرواژه را پر کنید.</fa>
+        <en>Please fill password confirm.</en>
+        <type>wrn</type>
+    </please_fill_mobile_number>
+
+    <please_fill_mobile_number_correctly>
+        <fa>لطفا فیلد شماره موبایل را به درستی وارد کنید.</fa>
+        <en>Please fill Mobile nuber correctly.</en>
+        <type>wrn</type>
+    </please_fill_mobile_number_correctly>
+
+    <please_fill_email>
+        <fa>لطفا فیلد ایمیل وارد کنید.</fa>
+        <en>Please fill email.</en>
+        <type>wrn</type>
+    </please_fill_email>
+
+    <please_fill_address>
+        <fa>لطفا فیلد آدرس وارد کنید.</fa>
+        <en>Please fill Address.</en>
+        <type>wrn</type>
+    </please_fill_address>
+
+    <please_fill_this_textbox>
+        <fa>لطفا این فیلد را وارد کنید.</fa>
+        <en>Please fill this textbox.</en>
+        <type>wrn</type>
+    </please_fill_this_textbox>
+
+    <mobile_number_length>
+        <fa>طول شماره موبایل باید ۱۱ رقم باشد.</fa>
+        <en>Your mobile number length should be 11 digits.</en>
+        <type>wrn</type>
+    </mobile_number_length>
+
+    <phone_length_max_11>
+        <fa>طول شماره تلفن باید ۱۱ رقم باشد.</fa>
+        <en>Phone length should not be more than 11 digits.</en>
+        <type>wrn</type>
+    </phone_length_max_11>
+
+    <home_phone_length_max_8>
+        <fa>طول شماره تلفن باید ۸ رقم باشد.</fa>
+        <en>Home phone length should not be more than 8 digits.</en>
+        <type>wrn</type>
+    </home_phone_length_max_8>
+
+    <home_phone_format_incorrect>
+        <fa>فرمت شماره تلفن نادرست است.</fa>
+        <en>Home phone format number is incorrect.</en>
+        <type>wrn</type>
+    </home_phone_format_incorrect>
+
+    <area_code_length_3>
+        <fa>طول پیش شماره تلفن باید ۳ رقم باشد.</fa>
+        <en>Your area code length should be 3 digits.</en>
+        <type>wrn</type>
+    </area_code_length_3>
+
+    <area_code_format_incorrect>
+        <fa>فرمت پیش شماره تلفن نادرست است.</fa>
+        <en>Area code format number is incorrect.</en>
+        <type>wrn</type>
+    </area_code_format_incorrect>
+
+    <orgphone_phone_length_3_to_11>
+        <fa>طول شماره سازمان باید بین ۳ تا ۱۱ باشد.</fa>
+        <en>Organization phone number length should be between 3 to 11 digits.</en>
+        <type>wrn</type>
+    </orgphone_phone_length_3_to_11>
+
+    <orgphone_phone_format_incorrect>
+        <fa>فرمت شماره سازمان نادرست است.</fa>
+        <en>Organization phone format number is incorrect.</en>
+        <type>wrn</type>
+    </orgphone_phone_format_incorrect>
+
+    <input_can_be_just_numeric>
+        <fa>مقدار ورودی باید فقط عدد باشد.</fa>
+        <en>input can be just numeric.</en>
+        <type>wrn</type>
+    </input_can_be_just_numeric>
+
+    <mobile_format_incorrect>
+        <fa>فرمت شماره موبایل نادرست است.</fa>
+        <en>mobile format number is incorrect.</en>
+        <type>wrn</type>
+    </mobile_format_incorrect>
+
+    <your_repeat_password_not_match_the_password>
+        <fa>مقدار گذرواژه با تایید آن یکسان نیست.</fa>
+        <en>Your repeat password not match the password.</en>
+        <type>wrn</type>
+    </your_repeat_password_not_match_the_password>
+
+    <username_max_length_50>
+        <fa>حداکثر طول نام کاربری قابل قبول ۵۰ کاراکتر است.</fa>
+        <en>username must be less than 50 characters.</en>
+        <type>wrn</type>
+    </username_max_length_50>
+
+    <name_max_length_50>
+        <fa>حداکثر طول نام قابل قبول ۵۰ کاراکتر است.</fa>
+        <en>Name must be less than 50 characters.</en>
+        <type>wrn</type>
+    </name_max_length_50>
+
+    <business_name_max_length_50>
+        <fa>حداکثر طول نام کسب و کار قابل قبول ۵۰ کاراکتر است.</fa>
+        <en>Business Name must be less than 50 characters.</en>
+        <type>wrn</type>
+    </business_name_max_length_50>
+
+    <url_format_incorrect>
+        <fa>فرمت url نادرست است.</fa>
+        <en>URL has no correct type.</en>
+        <type>wrn</type>
+    </url_format_incorrect>
+
+    <email_format_incorrect>
+        <fa>فرمت ایمیل نادرست است.</fa>
+        <en>Email pattern is wrong.</en>
+        <type>wrn</type>
+    </email_format_incorrect>
+
+    <input_cant_be_mix_of_some_lang>
+        <fa>ورودی نباید ترکیبی از چند زبان متفاوت باشد.</fa>
+        <en>Input can not be mix of some language.</en>
+        <type>wrn</type>
+    </input_cant_be_mix_of_some_lang>
+
+    <input_cant_have_digits>
+        <fa>ورودی نباید حاوی عدد باشد.</fa>
+        <en>Input can not have digits.</en>
+        <type>wrn</type>
+    </input_cant_have_digits>
+
+    <address_max_length_1000>
+        <fa>طول آدرس از حد مجاز بیشتر است.</fa>
+        <en>Your address should be less that 1000 chars.</en>
+        <type>wrn</type>
+    </address_max_length_1000>
+
+    <input_contain_unallowd_chars>
+        <fa>ورودی حاوی کاراکترهای غیرمجاز است.</fa>
+        <en>Input contains unallowd chars.</en>
+        <type>wrn</type>
+    </input_contain_unallowd_chars>
+
+    <password_min_length_8>
+        <fa>حداقل طول گذرواژه باید ۸ کاراکتر باشد.</fa>
+        <en>password length should be more than 8 chars.</en>
+        <type>wrn</type>
+    </password_min_length_8>
+
+    <password_max_length_20>
+        <fa>حداکثر طول گذرواژه باید 20 کاراکتر باشد.</fa>
+        <en>password length should be less than 20 chars.</en>
+        <type>wrn</type>
+    </password_max_length_20>
+
+    <email_username_part_max_length>
+        <fa>حداکثر طول بخش نام کاربری در ایمیل 64 کاراکتر است.</fa>
+        <en>username should be less that 64 chars.</en>
+        <type>wrn</type>
+    </email_username_part_max_length>
+
+    <email_username_part_max_length>
+        <fa>حداکثر طول بخش نام میزبان در ایمیل 64 کاراکتر است.</fa>
+        <en>host part should be less that 64 chars.</en>
+        <type>wrn</type>
+    </email_username_part_max_length>
+
+    <you_are_not_logged_in>
+        <fa>شما وارد حساب کاربری خود نشده اید.</fa>
+        <en>You are not logged in.</en>
+        <type>wrn</type>
+    </you_are_not_logged_in>
+
+
+    <Captcha_is_wrong>
+        <fa>مقدار کپچا اشتباه است.</fa>
+        <en>Captcha is wrong!</en>
+        <type>msg</type>
+    </Captcha_is_wrong>
+
+    <Err_login_This_Username_have_not_registered>
+        <fa>خطا در ورود کاربر: نام کاربری مورد نظر ثبت نشده است!</fa>
+        <en>Err login: This Username have not registered!</en>
+        <type>msg</type>
+    </Err_login_This_Username_have_not_registered>
+
+    <Err_login_Your_username_and_password_not_correct>
+        <fa>خطا در ورود کاربر: گذرواژه و پسورد شما اشتباه است!</fa>
+        <en>Err login: Your username and password not correct!</en>
+        <type>Err</type>
+    </Err_login_Your_username_and_password_not_correct>
+
+    <msg_login_your_account_has_been_blocked>
+        <fa>خطا در ورود کاربر: حساب کاربری شما مسدود است!</fa>
+        <en>msg login : your account has been blocked</en>
+        <type>wrn</type>
+    </msg_login_your_account_has_been_blocked>
+
+    <Err_get_user_by_id_id_is_not_valid>
+        <fa>خطا در بازیابی کاربر: شناسه کاربر معتبر نمی‌باشد!</fa>
+        <en>Err get user by id: id is not valid!</en>
+        <type>err</type>
+    </Err_get_user_by_id_id_is_not_valid>
+
+    <Err_edit_User_user_id_is_not_valid>
+        <fa>خطا در ویرایش اطلاعات کاربر: شناسه کاربر معتبر نمی‌باشد!</fa>
+        <en>Err edit User: user id is not valid!</en>
+        <type>err</type>
+    </Err_edit_User_user_id_is_not_valid>
+
+    <msg_edit_user_you_should_specify_at_least_one_parameter>
+        <fa>در ویرایش اطلاعات کاربر باید حداقل یک پارامتر تعیین شود!</fa>
+        <en>msg edit user: you should specify at least one parameter!</en>
+        <type>msg</type>
+    </msg_edit_user_you_should_specify_at_least_one_parameter>
+
+    <msg_edit_password_user_id_is_not_valid>
+        <fa>خطا در ویرایش گذرواژه: شناسه کاربر معتبر نیست!</fa>
+        <en>msg edit password: user id is not valid!</en>
+        <type>err</type>
+    </msg_edit_password_user_id_is_not_valid>
+
+    <msg_password_edit_password_not_set>
+        <fa>خطا در ویرایش گذرواژه: گذرواژه وارد نشده است!</fa>
+        <en>msg password edit: password not set</en>
+        <type>msg</type>
+    </msg_password_edit_password_not_set>
+
+    <msg_last_edit_password_user_id_is_not_valid>
+        <fa>شناسه کاربری معتبر نیست! </fa>
+        <en>msg las edit password: user id is not valid</en>
+        <type>msg</type>
+    </msg_last_edit_password_user_id_is_not_valid>
+
+
+    <Err_delete_user_by_id_id_is_not_valid>
+        <fa>خطا در حذف کاربر: شناسه کاربر معتبر نیست!</fa>
+        <en>Err delete user by id: id is not valid!</en>
+        <type>err</type>
+    </Err_delete_user_by_id_id_is_not_valid>
+
+    <Err_set_user_description_user_id_is_not_valid>
+        <fa>خطا در ثبت توضیخات کاربر: شناسه کاربر معتبر نیست!</fa>
+        <en>Err set user description: user id is not valid!</en>
+        <type>err</type>
+    </Err_set_user_description_user_id_is_not_valid>
+
+    <Err_activate_user_id_is_not_valid>
+        <fa>خطا در فعالسازی کاربر: شناسه کاربر معتبر نیست!</fa>
+        <en>Err activate user : id is not valid!</en>
+        <type>err</type>
+    </Err_activate_user_id_is_not_valid>
+
+    <The_user_is_already_active>
+        <fa>کاربر هم اکنون نیز فعال است!</fa>
+        <en>The user is already active!</en>
+        <type>msg</type>
+    </The_user_is_already_active>
+
+    <Err_get_user_create_by_user_id_is_not_valid>
+        <fa>خطا در بازیابی کاربران: شناسه کاربر معتبر نیست!</fa>
+        <en>Err get user create by : id is not valid!</en>
+        <type>err</type>
+    </Err_get_user_create_by_user_id_is_not_valid>
+
+    <Err_get_user_by_creator_user_id_is_not_valid>
+        <fa>خطا در بازیابی کاربر: شناسه کاربر معتبر نیست!</fa>
+        <en>Err get user by creator : user id is not valid !</en>
+        <type>err</type>
+    </Err_get_user_by_creator_user_id_is_not_valid>
+
+    <Err_get_deleted_user_by_creator_user_id_is_not_valid>
+        <fa>خطا در بازیابی کاربران حذف شده: شناسه کاربر معتبر نیست!</fa>
+        <en>Err get deleted user by creator : user id is not valid !</en>
+        <type>err</type>
+    </Err_get_deleted_user_by_creator_user_id_is_not_valid>
+
+    <Err_activate_user_id_is_not_valid>
+        <fa>خطا در فعال‌سازی کاربر: شناسه کاربر معتبر نیست!</fa>
+        <en>Err activate user : id is not valid!</en>
+        <type>err</type>
+    </Err_activate_user_id_is_not_valid>
+
+    <Err_deactivate_user_id_is_not_valid>
+        <fa>خطا در غیرفعال‌سازی کاربر: شناسه کاربر معتبر نیست!</fa>
+        <en>Err deactivate user : id is not valid!</en>
+        <type>err</type>
+    </Err_deactivate_user_id_is_not_valid>
+
+    <user_deactivation_was_successful>
+        <fa>حساب کاربری غیر فعال شد.</fa>
+        <en>user deactivation was successful.</en>
+        <type>suc</type>
+    </user_deactivation_was_successful>
+
+    <user_deactivation_was_unsuccessful>
+        <fa>غیر فعالسازی حساب کاربری ناموفق بود!</fa>
+        <en>user deactivation was unsuccessful!</en>
+        <type>wrn</type>
+    </user_deactivation_was_unsuccessful>
+
+    <user_activation_was_successful>
+        <fa>فعالسازی حساب کاربری موفق بود.</fa>
+        <en>user activation was successful.</en>
+        <type>suc</type>
+    </user_activation_was_successful>
+
+    <user_activation_was_unsuccessful>
+        <fa>فعالسازی حساب کاربری ناموفق بود!</fa>
+        <en>user activation was unsuccessful!</en>
+        <type>suc</type>
+    </user_activation_was_unsuccessful>
+
+    <Err_actions_user_id_is_not_valid>
+        <fa>خطا در دریافت عملیات های کاربر: شناسه کاربر معتبر نیست!</fa>
+        <en>Err get actions: user id is not valid!</en>
+        <type>err</type>
+    </Err_actions_user_id_is_not_valid>
+
+    <msg_check_user_access_there_is_no_action_for_your_action_name>
+        <fa>خطا در دریافت عملیات های کاربر: برای نام عملیات شما مغداری وجود ندارد!</fa>
+        <en>msg check user access: there is no action for your action name!</en>
+        <type>err</type>
+    </msg_check_user_access_there_is_no_action_for_your_action_name>
+
+    <msg_check_user_access_user_action_not_defined>
+        <fa>خطا در بررسی عملیات های کاربر: عملیات تعریف نشده است!</fa>
+        <en>msg check user access: user action not defined!</en>
+        <type>err</type>
+    </msg_check_user_access_user_action_not_defined>
+
+    <Err_check_user_lost_password_id_is_not_valid>
+        <fa>خطا در بررسی گذرواژه کاربر: شناسه کاربر معتبر نیست!</fa>
+        <en>Err check user password : id is not valid!</en>
+        <type>err</type>
+    </Err_check_user_lost_password_id_is_not_valid>
+
+    <msg_login_no_action_list_found_for_this_user>
+        <fa>خطا در ورود کاربر: برای این کاربر دسترسی وجود ندارد!</fa>
+        <en>msg login: no action list found for this user!</en>
+        <type>err</type>
+    </msg_login_no_action_list_found_for_this_user>
+
+    <Err_login_You_have_not_access_to_login_in_system>
+        <fa>خطا در ورود کاربر: در این سیستم اجازه ورود ندارید!</fa>
+        <en>Err login: You have not access to login in system!</en>
+        <type>err</type>
+    </Err_login_You_have_not_access_to_login_in_system>
+
+    <msg_login_your_account_has_been_deleted_before>
+        <fa>خطا در ورود کاربر: حساب کاربری شما پیش‌تر حذف شده است!</fa>
+        <en>msg login: your account has been deleted before!</en>
+        <type>err</type>
+    </msg_login_your_account_has_been_deleted_before>
+
+    <msg_logout_User_id_is_not_valid>
+        <fa>خطا در خروج کاربر: شناسه کاربر معتبر نمی‌باشد!</fa>
+        <en>msg logout: User id is not valid!</en>
+        <type>err</type>
+    </msg_logout_User_id_is_not_valid>
+
+    <Err_get_user_profile_Id_is_not_valid>
+        <fa>خطا در بازیابی کاربر: شناسه کاربر معتبر نمی‌باشد!</fa>
+        <en>Err get user profile: Id is not valid!</en>
+        <type>err</type>
+    </Err_get_user_profile_Id_is_not_valid>
+
+    <Err_get_user_role_Id_is_not_valid>
+        <fa>خطا در بازیابی نقش کاربر: شناسه کاربر معتبر نمی‌باشد!</fa>
+        <en>Err get user role: Id is not valid!</en>
+        <type>err</type>
+    </Err_get_user_role_Id_is_not_valid>
+
+    <Err_set_user_profile_Id_is_not_valid>
+        <fa>خطا در ثبت پروفایل کاربر: شناسه کاربر معتبر نمی‌باشد!</fa>
+        <en>Err set user profile: Id is not valid!</en>
+        <type>err</type>
+    </Err_set_user_profile_Id_is_not_valid>
+
+    <Err_get_user_role_user_id_is_not_valid>
+        <fa>خطا در دریافت نقش کاربر: شناسه کاربر معتبر نمی‌باشد!</fa>
+        <en>Err get user role: user id is not valid!</en>
+        <type>err</type>
+    </Err_get_user_role_user_id_is_not_valid>
+
+    <Err_get_user_role_role_id_is_not_valid>
+        <fa>خطا در دریافت نقش کاربر: شناسه نقش معتبر نمی‌باشد!</fa>
+        <en>Err get user role: role id is not valid!</en>
+        <type>err</type>
+    </Err_get_user_role_role_id_is_not_valid>
+
+    <You_should_specify_at_least_one_parameter>
+        <fa>خطا در ویرایش پروفایل کاربر: یکی از پارامترها را باید وارد کنید!</fa>
+        <en>You should specify at least one parameter!</en>
+        <type>err</type>
+    </You_should_specify_at_least_one_parameter>
+
+    <Err_edit_user_profile_User_Id_is_not_valid>
+        <fa>خطا در ویرایش پروفایل کاربر: شناسه کاربر معتبر نمی‌باشد!</fa>
+        <en>Err edit_user_profile: User Id is not valid!</en>
+        <type>err</type>
+    </Err_edit_user_profile_User_Id_is_not_valid>
+
+    <Err_edit_user_profile_no_Valid_user_for_this_id>
+        <fa>خطا در ویرایش پروفایل کاربر: شناسه وارد شده معتبر نمی‌باشد!</fa>
+        <en>Err edit user profile: no Valid user for this id!</en>
+        <type>err</type>
+    </Err_edit_user_profile_no_Valid_user_for_this_id>
+
+    <Err_get_role_role_id_is_not_valid>
+        <fa>خطا در دریافت نقش: شناسه نقش معتبر نمی‌باشد!</fa>
+        <en>Err get role: role id is not valid!</en>
+        <type>err</type>
+    </Err_get_role_role_id_is_not_valid>
+
+    <Edit_Role_You_should_specify_at_least_one_parameter>
+        <fa>خطا در ویرایش نقش: یکی از پارامترها را باید وارد کنید!</fa>
+        <en>You should specify at least one parameter!</en>
+        <type>err</type>
+    </Edit_Role_You_should_specify_at_least_one_parameter>
+
+    <Err_edit_role_Role_Id_is_not_valid>
+        <fa>خطا در ویرایش نقش: شناسه نقش معتبر نمی‌باشد!</fa>
+        <en>Err edit_role: Role Id is not valid!</en>
+        <type>err</type>
+    </Err_edit_role_Role_Id_is_not_valid>
+
+    <Err_get_action_action_id_is_not_valid>
+        <fa>خطا در ویرایش نقش: شناسه نقش معتبر نمی‌باشد!</fa>
+        <en>Err get action : action id is not valid!</en>
+        <type>err</type>
+    </Err_get_action_action_id_is_not_valid>
+
+    <Edit_Action_You_should_specify_at_least_One_parameter>
+        <fa>خطا در ویرایش عمل: شما باید حداقل یک پارامتر را تعیین نمایید!</fa>
+        <en>Edit Action: You should specify at least One parameter!</en>
+        <type>err</type>
+    </Edit_Action_You_should_specify_at_least_One_parameter>
+
+    <Err_edit_action_action_Id_is_not_valid>
+        <fa>خطا در ویرایش عمل: شناسه عمل معتبر نمی‌باشد!</fa>
+        <en>Err edit_action: action Id is not valid!</en>
+        <type>err</type>
+    </Err_edit_action_action_Id_is_not_valid>
+
+    <Err_set_role_action_action_id_is_null>
+        <fa>خطا در ثبت عمل دسترسی: شناسه عمل معتبر نمی‌باشد!</fa>
+        <en>Err set role action: action id is null!</en>
+        <type>err</type>
+    </Err_set_role_action_action_id_is_null>
+
+    <Err_set_role_action_action_id_is_not_valid>
+        <fa>خطا در ثبت عمل دسترسی: شناسه عمل معتبر نمی‌باشد!</fa>
+        <en>Err set role action: action id is not valid!</en>
+        <type>err</type>
+    </Err_set_role_action_action_id_is_not_valid>
+
+    <msg_get_role_action_role_id_is_not_valid>
+        <fa>بازیابی عمل دسترسی: شناسه دسترسی معتبر نمی‌باشد!</fa>
+        <en>msg get role action: role id is not valid!</en>
+        <type>err</type>
+    </msg_get_role_action_role_id_is_not_valid>
+
+    <Err_delete_role_role_id_is_not_valid>
+        <fa>بازیابی حذف دسترسی: شناسه دسترسی معتبر نمی‌باشد!</fa>
+        <en>Err delete role: role  id is not valid!</en>
+        <type>err</type>
+    </Err_delete_role_role_id_is_not_valid>
+
+    <Err_get_group_group_id_is_not_valid>
+        <fa>خطا در بازیابی گروه: شناسه‌ی گروه معتبر نمی‌باشد!</fa>
+        <en>Err get group: group id is not valid!</en>
+        <type>err</type>
+    </Err_get_group_group_id_is_not_valid>
+
+    <Edit_Group_You_should_specify_at_least_one_of_the_parameters>
+        <fa>خطا در ویرایش گروه: شما باید حداقل یک پارامتر را تعیین نمایید!</fa>
+        <en>Edit Group: You should specify at least one of the parameters!</en>
+        <type>err</type>
+    </Edit_Group_You_should_specify_at_least_one_of_the_parameters>
+
+    <Err_edit_group_group_Id_is_not_valid>
+        <fa>خطا در ویرایش گروه: شناسه‌ی گروه معتبر نمی‌باشد!</fa>
+        <en>Err edit_group: group Id is not valid!</en>
+        <type>err</type>
+    </Err_edit_group_group_Id_is_not_valid>
+
+    <Err_delete_group_group_id_is_not_valid>
+        <fa>خطا در حذف گروه: شناسه‌ی گروه معتبر نمی‌باشد!</fa>
+        <en>Err delete group: group id is not valid!</en>
+        <type>err</type>
+    </Err_delete_group_group_id_is_not_valid>
+
+    <Err_edit_city_You_should_specify_at_least_one_parameter>
+        <fa>خطا در ویرایش شهر: شما باید حداقل یک پارامتر را تعیین نمایید!</fa>
+        <en>Err edit_city: You should specify at least one parameter!</en>
+        <type>err</type>
+    </Err_edit_city_You_should_specify_at_least_one_parameter>
+
+    <Err_edit_City_City_Id_is_not_valid>
+        <fa>خطا در ویرایش شهر: شناسه‌ی شهر معتبر نمی‌باشد!</fa>
+        <en>Err edit_City: City Id is not valid!</en>
+        <type>err</type>
+    </Err_edit_City_City_Id_is_not_valid>
+
+    <Err_edit_City_Stat_Id_is_not_valid>
+        <fa>خطا در ویرایش شهر: شناسه‌ی استان معتبر نمی‌باشد!</fa>
+        <en>Err edit_City: State Id is not valid!</en>
+        <type>err</type>
+    </Err_edit_City_Stat_Id_is_not_valid>
+
+    <Err_delete_City_city_Id_is_not_valid>
+        <fa>خطا در حذف شهر: شناسه‌ی شهر معتبر نمی‌باشد!</fa>
+        <en>Err delete_City: city Id is not valid!</en>
+        <type>err</type>
+    </Err_delete_City_city_Id_is_not_valid>
+
+    <Err_get_region_by_id_region_id_is_not_valid>
+        <fa>خطا در بازیابی منطقه: شناسه‌ی منطقه معتبر نمی‌باشد!</fa>
+        <en>Err get region by id: region id is not valid!</en>
+        <type>err</type>
+    </Err_get_region_by_id_region_id_is_not_valid>
+
+    <Err_edit_region_You_should_specify_at_least_one_parameter>
+        <fa>خطا در ویرایش منطقه: شما باید حداقل یک پارامتر را تعیین نمایید!</fa>
+        <en>Err edit_region: You should specify at least one parameter!</en>
+        <type>err</type>
+    </Err_edit_region_You_should_specify_at_least_one_parameter>
+
+    <Err_edit_region_region_Id_is_not_valid>
+        <fa>خطا در ویرایش منطقه: شناسه‌ی منطقه معتبر نمی‌باشد!</fa>
+        <en>Err edit_region: region Id is not valid!</en>
+        <type>err</type>
+    </Err_edit_region_region_Id_is_not_valid>
+
+    <Err_edit_region_city_Id_is_not_valid>
+        <fa>خطا در ویرایش منطقه: شناسه‌ی شهر معتبر نمی‌باشد!</fa>
+        <en>Err edit_region: city Id is not valid!</en>
+        <type>err</type>
+    </Err_edit_region_city_Id_is_not_valid>
+
+    <Err_delete_Region_region_Id_is_not_valid>
+        <fa>خطا در حذف منطقه: شناسه‌ی منطقه معتبر نمی‌باشد!</fa>
+        <en>Err delete_Region: region Id is not valid!</en>
+        <type>err</type>
+    </Err_delete_Region_region_Id_is_not_valid>
+
+    <Err_set_role_group_role_id_is_not_valid>
+        <fa>خطا در ثبت گروه دسترسی: شناسه‌ی دسترسی معتبر نمی‌باشد!</fa>
+        <en>Err set role group: role id is not valid!</en>
+        <type>err</type>
+    </Err_set_role_group_role_id_is_not_valid>
+
+    <Err_set_role_group_role_id_is_not_valid>
+        <fa>خطا در ثبت گروه دسترسی: شناسه‌ی دسترسی معتبر نمی‌باشد!</fa>
+        <en>Err set role group: role id is not valid!</en>
+        <type>err</type>
+    </Err_set_role_group_role_id_is_not_valid>
+
+    <Err_set_role_group_group_id_is_not_valid>
+        <fa>خطا در ثبت گروه دسترسی: شناسه‌ی گروه معتبر نمی‌باشد!</fa>
+        <en>Err set role group: group id is not valid!</en>
+        <type>err</type>
+    </Err_set_role_group_group_id_is_not_valid>
+
+    <Err_delete_role_group_role_id_is_not_valid>
+        <fa>خطا در حذف گروه دسترسی: شناسه‌ی دسترسی معتبر نمی‌باشد!</fa>
+        <en>Err delete role group: role id is not valid!</en>
+        <type>err</type>
+    </Err_delete_role_group_role_id_is_not_valid>
+
+    <Err_delete_role_group_group_id_is_not_valid>
+        <fa>خطا در حذف گروه دسترسی: شناسه‌ی گروه معتبر نمی‌باشد!</fa>
+        <en>Err delete role group: group id is not valid!</en>
+        <type>err</type>
+    </Err_delete_role_group_group_id_is_not_valid>
+
+    <Err_set_user_group_user_id_is_not_valid>
+        <fa>خطا در ثبت گروه کاربر: شناسه‌ی کاربر معتبر نمی‌باشد!</fa>
+        <en>Err set user group: user id is not valid!</en>
+        <type>err</type>
+    </Err_set_user_group_user_id_is_not_valid>
+
+    <Err_set_user_group_group_id_is_not_valid>
+        <fa>خطا در ثبت گروه دسترسی: شناسه‌ی گروه معتبر نمی‌باشد!</fa>
+        <en>Err set user group: group id is not valid!</en>
+        <type>err</type>
+    </Err_set_user_group_group_id_is_not_valid>
+
+    <Err_set_user_description_user_id_is_not_valid>
+        <fa>خطا در ثبت توضیح کاربر: شناسه‌ی کاربر معتبر نمی‌باشد!</fa>
+        <en>Err set user description: user id is not valid!</en>
+        <type>err</type>
+    </Err_set_user_description_user_id_is_not_valid>
+
+    <Err_set_user_description_description_not_set>
+        <fa>خطا در ثبت توضیح کاربر: مقدار توضیح خالی است!</fa>
+        <en>msg : description not set!</en>
+        <type>msg</type>
+    </Err_set_user_description_description_not_set>
+
+    <Err_get_user_description_user_id_is_not_valid>
+        <fa>خطا در دریافت توضیح کاربر: شناسه‌ی کاربر معتبر نمی‌باشد!</fa>
+        <en>Err get user description: user id is not valid!</en>
+        <type>msg</type>
+    </Err_get_user_description_user_id_is_not_valid>
+
+    <!-- Part II -->
+
+    <your_business_name_is_very_long>
+        <fa>نام کسب و کار وارد شده طولانی است!</fa>
+        <en>your business name is very long!</en>
+        <type>msg</type>
+    </your_business_name_is_very_long>
+
+    <area_code_must_start_with_0_digit>
+        <fa>پیش شماره باید با رقم صفر آغاز شود.</fa>
+        <en>area code must start with 0 digit!</en>
+        <type>msg</type>
+    </area_code_must_start_with_0_digit>
+
+    <your_business_name_must_have_alphabet_and_number_characters>
+        <fa>نام کسب و کار باید تنها شامل کاراکترهای الفبایی و عددی باشد!</fa>
+        <en>your business name must have alphabet and number characters!</en>
+        <type>err</type>
+    </your_business_name_must_have_alphabet_and_number_characters>
+
+    <your_gender_is_wrong>
+        <fa>جنسیت اشتباه وارد شده است!</fa>
+        <en>your gender is wrong!</en>
+        <type>err</type>
+    </your_gender_is_wrong>
+
+    <your_name_is_very_long>
+        <fa>تعداد کاراکترهای نام بیش از حد مجاز است!</fa>
+        <en>your name is very long!</en>
+        <type>err</type>
+    </your_name_is_very_long>
+
+    <for_name_Only_letters_and_white_space_allowed>
+        <fa>برای نام تنها حروف و کاراکترهای الفبایی مجازند! </fa>
+        <en>for name Only letters and white space allowed!</en>
+        <type>err</type>
+    </for_name_Only_letters_and_white_space_allowed>
+
+    <category_value_must_be_number>
+        <fa>مقدار رسته باید عددی باشد!</fa>
+        <en>category value must be number!</en>
+        <type>err</type>
+    </category_value_must_be_number>
+
+    <invalid_email_format>
+        <fa>قالب ایمیل نادرست است.</fa>
+        <en>invalid email format!</en>
+        <type>err</type>
+    </invalid_email_format>
+
+    <your_password_is_small>
+        <fa>پسورد شما کوتاه است، باید از 8 کاراکتر بیشتر باشد.</fa>
+        <en>your password is small, must be bigger than 8 characters!</en>
+        <type>err</type>
+    </your_password_is_small>
+
+    <your_url_address_is_very_long>
+        <fa>آدرس  URL طولانی است.</fa>
+        <en>your url address is very long!</en>
+        <type>err</type>
+    </your_url_address_is_very_long>
+
+    <variable_that_present_population_is_not_a_number>
+        <fa> فیلد جمعیت باید عددی باشد.</fa>
+        <en>variable that present population is not a number!</en>
+        <type>err</type>
+    </variable_that_present_population_is_not_a_number>
+
+    <population_number_is_very_big>
+        <fa>جمعیت وارد شده از حد مجاز بزرگتر است.</fa>
+        <en>population number is very big!</en>
+        <type>err</type>
+    </population_number_is_very_big>
+
+    <region_value_must_be_number>
+        <fa>مقدار منطقه معتبر نمی باشد.</fa>
+        <en>region value is not valid!</en>
+        <type>err</type>
+    </region_value_must_be_number>
+
+    <city_value_must_be_number>
+        <fa>مقدار شهر معتبر نمی باشد.</fa>
+        <en>city value is not valid!</en>
+        <type>err</type>
+    </city_value_must_be_number>
+
+    <state_value_must_be_number>
+        <fa>مقدار استان معتبر نمی باشد.</fa>
+        <en>State value is not valid!</en>
+        <type>err</type>
+    </state_value_must_be_number>
+
+    <states_load_failed>
+        <fa>دریافت لیست استانها به درستی انجام نشد!</fa>
+        <en>states loading have failed!</en>
+        <type>err</type>
+    </states_load_failed>
+
+    <groups_load_failed>
+        <fa>در دریافت لیست گروهها خطا رخ داد!</fa>
+        <en>Groups loading have failed!</en>
+        <type>err</type>
+    </groups_load_failed>
+
+    <roles_load_failed>
+        <fa> در دریافت لیست دسترسیها خطا رخ داد!</fa>
+        <en>Roles loading have failed!</en>
+        <type>err</type>
+    </roles_load_failed>
+
+    <cities_load_failed>
+        <fa>در دریافت لیست شهرها خطا رخ داد!</fa>
+        <en>Cities loading have failed!</en>
+        <type>err</type>
+    </cities_load_failed>
+
+    <regions_load_failed>
+        <fa>در دریافت لیست مناطق خطا رخ داد!</fa>
+        <en>Regions loading have failed!</en>
+        <type>err</type>
+    </regions_load_failed>
+
+    <You_should_logged_in_to_create_account>
+        <fa>به منظور ایجاد کاربر باید وارد حساب کاربری خود شوید!</fa>
+        <en>You should logged in to create account!</en>
+        <type>wrn</type>
+    </You_should_logged_in_to_create_account>
+
+    <category_value_must_be_number>
+        <fa>مقدار رسته معتبر نمی باشد.</fa>
+        <en>Category value is not valid!</en>
+        <type>err</type>
+    </category_value_must_be_number>
+
+    <your_name_is_very_long>
+        <fa>طول نام از حد مجاز بیشتر است!</fa>
+        <en>your name is very long!</en>
+        <type>err</type>
+    </your_name_is_very_long>
+
+    <digits_number_of_area_code_must_be_3>
+        <fa>طول پیش شماره باید ۳ عدد باشد!</fa>
+        <en>digits number of area code must be 3!</en>
+        <type>err</type>
+    </digits_number_of_area_code_must_be_3>
+
+    <area_code_must_have_just_digit_characters>
+        <fa>پیش شماره باید فقط حاوی اعداد باشد!</fa>
+        <en>area code must have just digit characters!</en>
+        <type>err</type>
+    </area_code_must_have_just_digit_characters>
+
+    <address_include_illegal_special_characters>
+        <fa>فیلد آدرس حاوی کاراکترهای غیرمجاز است!</fa>
+        <en>address include illegal special characters!</en>
+        <type>err</type>
+    </address_include_illegal_special_characters>
+
+    <phone_number_should_not_start_with_0_or_1>
+        <fa>شماره تلفن نباید با صفر یا یک شروع شود!</fa>
+        <en>phone number should not start with 0 or 1!</en>
+        <type>err</type>
+    </phone_number_should_not_start_with_0_or_1>
+
+    <length_of_phonenumber_must_be_8>
+        <fa>ارقام شماره تلفن وارد شده باید 8 باشد.</fa>
+        <en>Length of phone number must be 8!</en>
+        <type>err</type>
+    </length_of_phonenumber_must_be_8>
+
+    <phone_number_must_have_digit_characters>
+        <fa>شماره تلفن باید حاوی کاراکترهای عددی باشد.</fa>
+        <en>phone number must have digit characters!</en>
+        <type>err</type>
+    </phone_number_must_have_digit_characters>
+
+    <phone_number_should_not_start_with_0>
+        <fa>شماره تلفن نباید باید با صفر شروع شود.</fa>
+        <en>phone number should not start with 0!</en>
+        <type>err</type>
+    </phone_number_should_not_start_with_0>
+
+    <digit_numbers_of_phonenumber_must_be_between_3_and_8>
+        <fa>ارقام شماره تلفن وارد شده باید  بین 3 تا 8 باشد.</fa>
+        <en>digits number of phonenumber must be between 3 and 8!</en>
+        <type>err</type>
+    </digit_numbers_of_phonenumber_must_be_between_3_and_8>
+
+    <phone_number_must_have_digit_characters>
+        <fa>شماره تلفن باید حاوی کاراکترهای عددی باشد.</fa>
+        <en>phone number must have digit characters!</en>
+        <type>err</type>
+    </phone_number_must_have_digit_characters>
+
+    <prefix_of_phone_number_is_wrong>
+        <fa>پیش شماره ی تلفن اشتباه است.</fa>
+        <en>prefix of phone number is wrong!</en>
+        <type>err</type>
+    </prefix_of_phone_number_is_wrong>
+
+    <digits_number_of_phone_number_must_be_11>
+        <fa>طول شماره ی تلفن باید ۱۱ باشد.</fa>
+        <en>digits number of phone number must be 11!</en>
+        <type>err</type>
+    </digits_number_of_phone_number_must_be_11>
+
+    <phone_number_must_have_digit_characters>
+        <fa>شماره ی تلفن باید حاوی اعداد باشد.</fa>
+        <en>phone number must have digit characters!</en>
+        <type>err</type>
+    </phone_number_must_have_digit_characters>
+
+    <id_must_be_a_number>
+        <fa>شناسه باید عددی باشد.</fa>
+        <en>id must be a number!</en>
+        <type>err</type>
+    </id_must_be_a_number>
+    <prefix_of_mobile_phonenumber_is_wrong>
+        <fa>پیش شماره موبایل وارد شده اشتباه است!</fa>
+        <en>prefix of mobile phonenumber is wrong!</en>
+        <type>err</type>
+    </prefix_of_mobile_phonenumber_is_wrong>
+
+    <digits_number_of_phonenumber_must_be_11>
+        <fa>ارقام شماره تلفن وارد شده باید 11 باشد.</fa>
+        <en>digits number of phonenumber must be 11!</en>
+        <type>msg</type>
+    </digits_number_of_phonenumber_must_be_11>
+
+    <!-- Part III -->
+    <essential_parameters_not_set>
+        <fa>پارامترهای اصلی وارد نشده اند . لطفا بررسی کنید.</fa>
+        <en>essential parameters not set, please check!</en>
+        <type>msg</type>
+    </essential_parameters_not_set>
+
+    <You_are_logged_out_successfully>
+        <fa>شما به درستی از حساب خود خارج شدید.</fa>
+        <en>You are logged out successfully.</en>
+        <type>suc</type>
+    </You_are_logged_out_successfully>
+
+    <you_are_not_allowed_for_this_action>
+        <fa>شما دسترسی به این عمل را ندارید!</fa>
+        <en>you are not allowed for this action!</en>
+        <type>wrn</type>
+    </you_are_not_allowed_for_this_action>
+
+    <set_description_was_successful>
+        <fa>ثبت توضیحات موفقیت آمیز بود.</fa>
+        <en>set description was successful.</en>
+        <type>suc</type>
+    </set_description_was_successful>
+
+    <set_description_was_unsuccessful>
+        <fa>ثبت توضیحات موفقیت آمیز نبود!</fa>
+        <en>set description was unsuccessful!</en>
+        <type>suc</type>
+    </set_description_was_unsuccessful>
+
+    <password_retrieve_was_unsuccessful>
+        <fa>بازیابی پسورد ناموفق بود!</fa>
+        <en>password retrieve was unsuccessful!</en>
+        <type>err</type>
+    </password_retrieve_was_unsuccessful>
+
+    <edit_password_was_successful>
+        <fa>ویرایش پسورد موفق بود.</fa>
+        <en>edit password was successful.</en>
+        <type>suc</type>
+    </edit_password_was_successful>
+
+    <edit_password_was_unsuccessful>
+        <fa>ویرایش پسورد ناموفق بود!</fa>
+        <en>edit password was unsuccessful.</en>
+        <type>suc</type>
+    </edit_password_was_unsuccessful>
+
+    <password_and_confirm_password_must_be_equal>
+        <fa>گذرواژه و تکرار گذرواژه باید یک شکل باشند!</fa>
+        <en>password and confirm password must be equal!</en>
+        <type>wrn</type>
+    </password_and_confirm_password_must_be_equal>
+
+    <creator_retrieve_was_unsuccessful>
+        <fa>بازیابی سازنده ناموفق بود!</fa>
+        <en>creator retrieve was unsuccessful!</en>
+        <type>err</type>
+    </creator_retrieve_was_unsuccessful>
+
+    <restore_user_was_unsuccessful>
+        <fa>بازیابی کاربر ناموفق بود!</fa>
+        <en>restore user was unsuccessful</en>
+        <type>err</type>
+    </restore_user_was_unsuccessful>
+
+    <restore_user_was_successful>
+        <fa>بازیابی کاربر موفقیت آمیز بود!</fa>
+        <en>restore user was successful</en>
+        <type>err</type>
+    </restore_user_was_successful>
+
+    <all_of_input_parameters_are_not_valid>
+        <fa>پارامترها به درستی وارد نشده اند!</fa>
+        <en>all of input parameters are not valid!</en>
+        <type>err</type>
+    </all_of_input_parameters_are_not_valid>
+
+    <set_user_profile_information_was_successful>
+        <fa>ثبت اطلاعات پروفایل کاربر موفقیت آمیز بود.</fa>
+        <en>set user profile information was successful.</en>
+        <type>suc</type>
+    </set_user_profile_information_was_successful>
+
+    <set_user_profile_information_was_unsuccessful>
+        <fa>ثبت اطلاعات پروفایل کاربر ناموفق بود!</fa>
+        <en>set user profile information was unsuccessful!</en>
+        <type>suc</type>
+    </set_user_profile_information_was_unsuccessful>
+
+    <set_user_group_was_unsuccessful>
+        <fa>افزودن گروه کاربر ناموفق بود!</fa>
+        <en>set user group was unsuccessful!</en>
+        <type>wrn</type>
+    </set_user_group_was_unsuccessful>
+
+    <set_user_role_was_unsuccessful>
+        <fa>افزودن دسترسی کاربر ناموفق بود!</fa>
+        <en>set user role was unsuccessful!</en>
+        <type>wrn</type>
+    </set_user_role_was_unsuccessful>
+
+    <user_registration_was_successful>
+        <fa>ثبت نام کاربر موفق بود.</fa>
+        <en>user registration was successful.</en>
+        <type>suc</type>
+    </user_registration_was_successful>
+
+    <user_registration_was_unsuccessful>
+        <fa>ثبت نام کاربر ناموفق بود!</fa>
+        <en>user registration was unsuccessful!</en>
+        <type>wrn</type>
+    </user_registration_was_unsuccessful>
+
+    <edit_user_profile_information_was_unsuccessful>
+        <fa>ویرایش پروفایل کاربر ناموفق بود.</fa>
+        <en>edit user profile information was unsuccessful!</en>
+        <type>err</type>
+    </edit_user_profile_information_was_unsuccessful>
+
+    <edit_user_profile_information_was_successful>
+        <fa>ویرایش پروفایل کاربر موفق بود.</fa>
+        <en>edit user profile information was successful!</en>
+        <type>suc</type>
+    </edit_user_profile_information_was_successful>
+
+    <edit_user_essential_information_was_successful>
+        <fa>ویرایش اطلاعات کاربر موفق بود.</fa>
+        <en>edit user essential information was successful!</en>
+        <type>suc</type>
+    </edit_user_essential_information_was_successful>
+
+    <edit_user_essential_information_was_unsuccessful>
+        <fa>ویرایش اطلاعات کاربر ناموفق بود.</fa>
+        <en>edit user essential information was unsuccessful!</en>
+        <type>wrn</type>
+    </edit_user_essential_information_was_unsuccessful>
+
+    <user_does_not_exists>
+        <fa>کاربر وجود ندارد!</fa>
+        <en>user does not exists!</en>
+        <type>wrn</type>
+    </user_does_not_exists>
+
+    <set_role_was_successful>
+        <fa>ثبت نقش موفق بود.</fa>
+        <en>set role was successful.</en>
+        <type>suc</type>
+    </set_role_was_successful>
+
+    <set_role_was_unsuccessful>
+        <fa>ثبت نقش ناموفق بود.</fa>
+        <en>set role was unsuccessful!</en>
+        <type>wrn</type>
+    </set_role_was_unsuccessful>
+
+    <role_does_not_exists>
+        <fa>دسترسی مورد نظر وجود ندارد!</fa>
+        <en>role does not exists!</en>
+        <type>wrn</type>
+    </role_does_not_exists>
+
+    <group_does_not_exists>
+        <fa>گروه مورد نظر وجود ندارد!</fa>
+        <en>group does not exists!</en>
+        <type>wrn</type>
+    </group_does_not_exists>
+
+    <error_in_loading_data>
+        <fa>خطا در دریافت اطلاعات!</fa>
+        <en>Erroe in loading data!</en>
+        <type>err</type>
+    </error_in_loading_data>
+
+    <invalid_request>
+        <fa>درخواست شما معتبر نیست!</fa>
+        <en>Your request is not invalid!</en>
+        <type>err</type>
+    </invalid_request>
+
+    <set_group_was_successful>
+        <fa>ثبت گروه دسترسی موفق بود!</fa>
+        <en>Set group was successful!</en>
+        <type>suc</type>
+    </set_group_was_successful>
+
+
+
+</messageList>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title of the document</title>
+    <meta charset="UTF-8">
+
+
+
+
+
+    <script src="../css/net/jquery-ui.css"></script>
+    <!-- jQuery UI 1.11.4 -->
+
+</head>
+
+<body >
+
+
+
+
+
+<p>Hello World!
+</p>
+
+<div id="dialog-message" title="Important information">
+    <span class="ui-state-default"><span class="ui-icon ui-icon-info" style="float:left; margin:0 7px 0 0;"></span></span>
+    <div style="margin-left: 23px;">
+        <p>
+            We're closed during the winter holiday from 21st of December, 2010 until 10th of January 2011.
+            <br /><br />
+            Our hotel will reopen at 11th of January 2011.<br /><br />
+            Another line which demonstrates the auto height adjustment of the dialog component.
+        </p></div>
+</div>
+
+
+
+
+
+
+<script src="../js/jquery/jquery.min.js"></script>
+
+
+
+
+<script src="../js/net/jquery-ui.min.js"></script>
+
+
+<!-- jQuery 2.1.4 -->
+
+
+
+
+
+<script type="text/javascript">
+
+    $("#dialog-message").dialog({
+        modal: true,
+        draggable: false,
+        resizable: false,
+        position: ['center', 'top'],
+        show: 'blind',
+        hide: 'blind',
+        width: 400,
+        dialogClass: 'ui-dialog-osx',
+        buttons: {
+            "I've read and understand this": function() {
+                $(this).dialog("close");
+            }
+        }
+    });
+
+
+</script>
+</body>
+</html>

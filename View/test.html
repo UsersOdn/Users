@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script src="js/jquery/jquery.min.js"></script>
+
+<!--  google recaptcha  linkage  -->
+
+<script src="js/validation/validator.js"></script>
+
+<!-- Bootstrap 3.3.4 -->
+<script src="js/bootstrap/bootstrap.min.js"></script>
+<script>
+
+
+     function translate( msg , lang ) {
+         $.when($.get("lang/lang.xml" , function (xml) {
+             var xmlDoc = xml;
+
+             var x = xmlDoc.getElementsByTagName(msg); // get all msg tags as array, and x = first msg tag
+             var persianMsg = x[0].firstElementChild.innerHTML; // get persian data of a message
+             var englishMsg = x[0].firstElementChild.nextElementSibling.innerHTML; // set y = x's child node
+             var type = x[0].lastElementChild.innerHTML;
+
+             var message = null;
+             switch (lang )
+             {
+                case 'fa':
+                    set_translated_message( persianMsg );
+                    break;
+                case 'en':
+                    set_translated_message( englishMsg );
+                    break
+                default:
+                    message = ( "This Language not supported" );
+                    break;
+             }
+             return message;
+         }));
+    }
+
+
+    var d = null;
+
+
+    function set_translated_message( value )
+    {
+        d = value;
+        document.write('<h1>'+d+'</h1>');
+        //console.log( 'data'+ d );
+
+    }
+
+
+
+ /*$.when( $.get( 'ajax/testajax.php' ,{func:'1'}, function (data) {
+
+     console.log("func1"+data);
+ })  , $.get('ajax/testajax.php',{func:'2'},function (data) {
+
+     console.log("func2"+data);
+ }) );*/
+
+
+</script>
+
+
+<script src="/View/js/crypto-js-develop/src/core.js"></script>
+<script src="/View/js/crypto-js-develop/src/md5.js"></script>
+
+<script>
+    var passhash = CryptoJS.MD5('asdsa').toString();
+
+    console.log(passhash);
+    /*$.post(
+            'includes/login.php',
+            { user: username, pass: passhash },
+            onLogin,
+            'json' );*/
+</script>
+</body>
+</html>
